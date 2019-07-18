@@ -1,4 +1,4 @@
-# Laconic Api
+# Laconic Api (URL: [https://laconic-api.herokuapp.com/api](https://laconic-api.herokuapp.com/api))
 
 Laconic enables Youtube creators to optimize their videos click rates by allowing them to rapidly test how their video appears on Youtube's search result page.  A creator can easily test out multiple custom thumbnails, titles, descriptions and more while seeing how the results render in desktop, iphone or android app.
 
